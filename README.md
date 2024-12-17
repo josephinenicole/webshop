@@ -9,27 +9,31 @@
 <h3>Startseite</h3>
 <ul>
   <li>Artikel über eine <strong>Suchfunktion</strong> suchen.</li>
-  <li>Artikel im <strong>Warenkorb</strong> speichern.</li>
-  ![1]
-  (https://github.com/user-attachments/assets/3f17fb8e-543c-401a-9d69-9987ddf09251)
+  <p><img src="https://github.com/josephinenicole/webshop/blob/main/secudrive_shop/screenshots/Startseite.jpg?raw=true" alt="Warenkorb-  
+   Ansicht" width="700">
+  </p>
 </ul>
   
 <h3>Warenkorb</h3>
   <ul>
-    <li>Artikel <strong>anzeigen</strong>, <strong>hinzufügen</strong>, <strong>bearbeiten</strong> und <strong>entfernen</strong>.</li>
-    ![2](https://github.com/user-attachments/assets/b82f7a51-f3a7-48c6-82ee-10d65a771861)
+    <li>Artikel <strong>anzeigen</strong>, <strong>hinzufügen</strong> und <strong>entfernen</strong>.</li>
+    <p><img src="https://github.com/josephinenicole/webshop/blob/main/secudrive_shop/screenshots/Warenkorb.jpg?raw=true" alt="Artikel       
+    anzeigen und bearbeiten" width="700">
+    </p>  
   </ul>
   
   <div>
-    <h3>Registrierungsformular</h3>
-    <p><img src="pfad/zum/registrierung-screenshot.png" alt="Registrierungsformular" width="600"></p>
-    ![5](https://github.com/user-attachments/assets/94a216b2-3b13-4a3d-8fa4-c4165d42c930)
+    <h3>Registrierungsformular und Zahlungsmethoden</h3>
+    <li> <strong>Kundenregistrierung</strong>, Angaben zur <strong>Zahlungsmethode</strong> und kurze <strong>Bestellübersicht</strong>.</li>
+    <p><img src="https://github.com/josephinenicole/webshop/blob/main/secudrive_shop/screenshots/Registrierungsformular.jpg?raw=true" 
+    alt="Registrierungsformular und Zahlungsmethoden" width="700"></p>
   </div>
 
   <div>
     <h3>Bestellübersicht</h3>
-    <p><img src="pfad/zum/kasse-screenshot.png" alt="Kasse und Bestellübersicht" width="600"></p>
-    ![6](https://github.com/user-attachments/assets/3ed06625-681f-45a0-9c6b-e54269ff39b1)
+    <li> Bestellübersicht inklusive: Übersicht der Kundenangaben, Zahlungsinformationen und Artikelübersicht.</li>
+    <p><img src="https://github.com/josephinenicole/webshop/blob/main/secudrive_shop/screenshots/Bestell%C3%BCbersicht.jpg?raw=true" 
+     alt="Bestellübersicht" width="500"></p>
   </div> 
   
 
