@@ -1,8 +1,7 @@
 <h1>Secudrive Onlineshop 🚀</h1> <br>
 <p>Secudrive ist ein Onlineshop, der als PHP-Anwendung entwickelt wurde. Dieses Projekt zeigt die Benutzeransicht und bietet alle wichtigen Funktionen eines Webshops. Die Anwendung wurde mit PHP, HTML, CSS (Benutzeroberfläche), Serverlogik (Backend: PHP) und einer MySQL-Datenbank (Datenverwaltung) umgesetzt. </p>
-
-Kundendaten und Artikel werden sicher in einer MySQL-Datenbank gespeichert.
-⚠️ Hinweis: Die gezeigten Screenshots zeigen nur die Benutzeransicht.Es existiert zudem eine Adminansicht, in der Artikel bearbeitet, gelöscht und gespeichert werden können.
+<p>Artikel werden sicher in einer MySQL-Datenbank gespeichert.
+⚠️ Hinweis: Die gezeigten Screenshots zeigen nur die Benutzeransicht.Es existiert zudem eine Adminansicht, in der Artikel bearbeitet, gelöscht und gespeichert werden können.</p>
 
 <section>
 <h2>📋 Funktionen</h2>
@@ -27,6 +26,7 @@ Kundendaten und Artikel werden sicher in einer MySQL-Datenbank gespeichert.
     ![5](https://github.com/user-attachments/assets/94a216b2-3b13-4a3d-8fa4-c4165d42c930)
   </div>
 
+  <div>
     <h3>Bestellübersicht</h3>
     <p><img src="pfad/zum/kasse-screenshot.png" alt="Kasse und Bestellübersicht" width="600"></p>
     ![6](https://github.com/user-attachments/assets/3ed06625-681f-45a0-9c6b-e54269ff39b1)
